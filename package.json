@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "aws-sdk": "^2.339.0",
+    "fs": "0.0.1-security",
+    "imagemagick": "^0.1.3"
+  }
+}
